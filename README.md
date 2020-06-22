@@ -52,7 +52,7 @@ https://www.youtube.com/watch?v=Rx3hkcfdL8Q
 Sensor Ultrassônico parte 2:
 https://www.youtube.com/watch?v=L3Q-4xUszoo
 
-A codificação da conexão MQTT e captura de dados do sensor foram baseadas na demonstração apresentadas no vídeo, sendo adaptadas ao conceito deste projeto. 
+A codificação da conexão MQTT e captura de dados do sensor foram baseadas na demonstração apresentadas no vídeo, sendo adaptadas ao contexto deste projeto. 
 https://youtu.be/xKUtb6IBPCU
 
 
