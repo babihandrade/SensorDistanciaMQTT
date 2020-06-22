@@ -52,5 +52,7 @@ https://www.youtube.com/watch?v=Rx3hkcfdL8Q
 Sensor Ultrassônico parte 2:
 https://www.youtube.com/watch?v=L3Q-4xUszoo
 
+Vídeo de demonstração do projeto:
+https://youtu.be/xKUtb6IBPCU
 
 
